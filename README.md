@@ -1,4 +1,4 @@
-## Salve, eu sou o Lucas Camilo, Estudante de programação e tecnologia!
+## Salvee, eu sou o Lucas Camilo, Estudante de programação e tecnologia!
 <div align="left">
   <a href="https://github.com/Lucas-Camiloo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Camiloo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
