@@ -1,5 +1,5 @@
 ## Salvee,sou o Lucas Camilo, Estudante de programação e tecnologia!
-<div align="center" max-width="250px" >
+<div align="center" max-width="50px" >
   <a href="https://github.com/Lucas-Camiloo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Camiloo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Camiloo&layout=compact&langs_count=7&theme=tokyonight"/> 
