@@ -1,4 +1,4 @@
-## Salvee,sou o Lucas Camilo, Estudante de programação e tecnologia!
+## ola,sou o Lucas Camilo, Estudante de Segurança da Informação pela FATEC de Araraquara!
 <div align="center" >
   <a href="https://github.com/Lucas-Camiloo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Camiloo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
